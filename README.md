@@ -13,3 +13,7 @@ Authored by Maciej Stępień, this work demonstrates in-depth understanding of a
 ## Viewing the Presentation
 
 Open the PowerPoint file with any compatible software such as Microsoft PowerPoint or LibreOffice Impress.
+
+## Important Note
+
+**Most of the detailed technical information and explanations are contained in the speaker notes below each slide.** When viewing the presentation, make sure to enable the notes section to read the comprehensive analysis, technical specifications, and detailed engineering discussions for each topic covered.
