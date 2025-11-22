@@ -17,3 +17,5 @@ Open the PowerPoint file with any compatible software such as Microsoft PowerPoi
 ## Important Note
 
 **Most of the detailed technical information and explanations are contained in the speaker notes below each slide.** When viewing the presentation, make sure to enable the notes section to read the comprehensive analysis, technical specifications, and detailed engineering discussions for each topic covered.
+
+This presentation has originally been created in polish and later translated into english. For technical accuracy always refer to the source (polish) version.
